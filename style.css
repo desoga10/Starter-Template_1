@@ -49,6 +49,8 @@ html, body{
 	padding: 1rem;
 }
 
+
+
 .jumbotron {
 	padding: 1rem;
 }
@@ -59,11 +61,18 @@ html, body{
 
 
 .card-deck{
-	padding: 0 30px 0 30px;
+	padding: 50px 30px 0 30px;
+	overflow: hidden;
 }
 
 
-
+.portfolio-header{
+	text-align: center;
+	text-transform: uppercase;
+	font-style: italic;
+	color: #4d3300;
+	padding: 50px;
+}
 
 
 
